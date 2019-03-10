@@ -1,0 +1,5 @@
+﻿  Source.cpp
+\\gmrdc1\folder redirection\david.lin\documents\visual studio 2017\projects\cppmergesort\cppmergesort\source.cpp(9): warning C4018: '<': signed/unsigned mismatch
+\\gmrdc1\folder redirection\david.lin\documents\visual studio 2017\projects\cppmergesort\cppmergesort\source.cpp(68): warning C4018: '<': signed/unsigned mismatch
+\\gmrdc1\folder redirection\david.lin\documents\visual studio 2017\projects\cppmergesort\cppmergesort\source.cpp(31): warning C4172: returning address of local variable or temporary: merge
+  CppMergeSort.vcxproj -> \\gmrdc1\folder redirection\david.lin\Documents\Visual Studio 2017\Projects\CppMergeSort\Debug\CppMergeSort.exe
